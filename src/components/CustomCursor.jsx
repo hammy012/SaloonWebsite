@@ -52,7 +52,7 @@ export default function CustomCursor() {
     <>
       {/* Outer Spring Ring */}
       <motion.div
-        className="fixed top-0 left-0 w-8 h-8 rounded-full border border-accent pointer-events-none z-50"
+        className="fixed top-0 left-0 w-8 h-8 rounded-full border border-accent pointer-events-none z-[1000000]"
         style={{
           x: cursorXSpring,
           y: cursorYSpring,
@@ -61,14 +61,14 @@ export default function CustomCursor() {
         }}
         animate={{
           scale: isHovered ? 1.8 : 1,
-          borderColor: isHovered ? "#7B4F35" : "#C9A66B",
+          borderColor: isHovered ? "#895129" : "#C9A66B",
           backgroundColor: isHovered ? "rgba(201, 166, 107, 0.15)" : "rgba(201, 166, 107, 0)",
         }}
         transition={{ type: "spring", stiffness: 250, damping: 22 }}
       />
       {/* Inner Dot */}
       <motion.div
-        className="fixed top-0 left-0 w-1.5 h-1.5 bg-primary rounded-full pointer-events-none z-50"
+        className="fixed top-0 left-0 w-1.5 h-1.5 bg-primary rounded-full pointer-events-none z-[1000000]"
         style={{
           x: cursorX,
           y: cursorY,
