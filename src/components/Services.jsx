@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FiSparkles, FiSun, FiScissors, FiDroplet, FiTrendingUp, FiActivity, FiLayers } from "react-icons/fi";
+import { FiStar, FiSun, FiScissors, FiDroplet, FiTrendingUp, FiActivity, FiLayers } from "react-icons/fi";
 import Magnetic from "./Magnetic";
 
 export default function Services() {
@@ -9,7 +9,7 @@ export default function Services() {
       price: "$350+",
       duration: "4 - 5 hrs",
       description: "Bespoke multi-dimensional blonding tailored perfectly to your natural tones, features, and hair density. Includes root melts and customized toners.",
-      icon: FiSparkles,
+      icon: FiStar,
     },
     {
       title: "Custom Balayage",
