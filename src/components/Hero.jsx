@@ -108,12 +108,12 @@ export default function Hero() {
 
       {/* Hero Content */}
       <motion.div
-        className="relative z-10 max-w-5xl mx-auto px-6 text-center text-white flex flex-col items-center justify-center pt-24 md:pt-32"
+        className="relative z-10 max-w-5xl mx-auto px-6 text-center text-white flex flex-col items-center justify-center pt-16 md:pt-22"
         style={{ y: textY, opacity: opacityFade }}
       >
         {/* Pre-title */}
         <motion.span
-          className="font-sans text-xs md:text-sm tracking-[0.4em] uppercase text-accent font-semibold mb-6 block"
+          className="font-sans text-xs md:text-sm tracking-[0.4em] uppercase text-primary font-semibold mb-6 block"
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, ease: [0.16, 1, 0.3, 1] }}
