@@ -20,7 +20,6 @@ export default function Navbar() {
   }, []);
 
   const navLinks = [
-    { name: "Home", href: "#home" },
     { name: "About", href: "#about" },
     { name: "Services", href: "#services" },
     { name: "Transformation", href: "#transformation" },
@@ -60,11 +59,16 @@ export default function Navbar() {
             onClick={(e) => handleLinkClick(e, "#home")}
             className="flex flex-col group cursor-pointer"
           >
-            <span className="font-serif text-xl md:text-2xl tracking-widest text-primary font-medium transition-colors duration-300 group-hover:text-accent">
-              HONEY DOES HAIR
-            </span>
-            <span className="text-[9px] tracking-[0.3em] font-sans text-accent uppercase leading-none mt-1 transition-colors duration-300 group-hover:text-primary">
-              by melissa fierro
+            <div className="flex items-baseline space-x-1">
+              <span className="font-serif text-base md:text-lg tracking-widest text-primary font-bold group-hover:text-accent transition-colors duration-300 uppercase">
+                Honey
+              </span>
+              <span className="font-serif text-base md:text-lg italic text-accent font-light group-hover:text-primary transition-colors duration-300 lowercase">
+                does hair
+              </span>
+            </div>
+            <span className="text-[7.5px] tracking-[0.35em] font-sans text-accent/80 uppercase leading-none mt-0.5 transition-colors duration-300 group-hover:text-primary">
+              Melissa Fierro
             </span>
           </a>
 
