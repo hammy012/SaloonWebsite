@@ -36,7 +36,7 @@ export default function Hero() {
         <motion.img
           src="/assets/images/salon_1.jpg"
           alt="Luxury Salon Interior"
-          className="w-full h-full object-cover scale-110"
+          className="w-full h-full object-cover object-top scale-110"
           initial={{ scale: 1.25, opacity: 0 }}
           animate={{ scale: 1.1, opacity: 1 }}
           transition={{ duration: 1.8, ease: [0.25, 1, 0.5, 1] }}
