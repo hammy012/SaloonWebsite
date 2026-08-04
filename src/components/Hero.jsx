@@ -108,7 +108,7 @@ export default function Hero() {
 
       {/* Hero Content */}
       <motion.div
-        className="relative z-10 max-w-5xl mx-auto px-6 text-center text-white flex flex-col items-center justify-center"
+        className="relative z-10 max-w-5xl mx-auto px-6 text-center text-white flex flex-col items-center justify-center pt-24 md:pt-32"
         style={{ y: textY, opacity: opacityFade }}
       >
         {/* Pre-title */}
