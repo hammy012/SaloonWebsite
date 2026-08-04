@@ -73,7 +73,7 @@ export default function Instagram() {
               target="_blank"
               rel="noopener noreferrer"
               variants={itemVariants}
-              className="relative aspect-square rounded-2xl overflow-hidden shadow-sm hover:shadow-lg bg-white border border-primary/5 group block select-none"
+              className="relative aspect-[3/4] rounded-2xl overflow-hidden shadow-sm hover:shadow-lg bg-white border border-primary/5 group block select-none"
             >
               {/* Image */}
               <img
