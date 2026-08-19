@@ -6,6 +6,10 @@ export default function Gallery() {
   const [activeIdx, setActiveIdx] = useState(null);
 
   const images = [
+    { src: "/assets/honey hair more/1.jpeg", alt: "Luxury Blonde Reveal", title: "Signature Blonde Waves" },
+    { src: "/assets/honey hair more/2.jpeg", alt: "Dimensional Balayage Melt", title: "Creamy Caramel Blend" },
+    { src: "/assets/honey hair more/3.jpeg", alt: "Root Shaded Blonde Highlights", title: "High-Contrast Platinum" },
+    { src: "/assets/honey hair more/4.jpeg", alt: "Premium Hair Care Finish", title: "Luxe Style Reveal" },
     { src: "/assets/images/salon_1.jpg", alt: "Premium Salon Styling Stations", title: "The Salon Experience" },
     { src: "/assets/images/salon_2.jpg", alt: "Dimensional Honey Blonde Color styling", title: "Signature Dimensional Blonde" },
     { src: "/assets/images/salon_3.jpg", alt: "Seamless Creamy Soft Highlights styling", title: "Creamy Balayage Blend" },
