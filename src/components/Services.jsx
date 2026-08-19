@@ -6,7 +6,7 @@ import {
   FiDollarSign, 
   FiCheck, 
   FiScissors, 
-  FiSparkles, 
+  FiStar, 
   FiRefreshCw, 
   FiTrash2, 
   FiInfo
@@ -28,7 +28,7 @@ export default function Services() {
       price: 180,
       duration: 90,
       description: "Bright accent foils concentrated along the hairline and face frame for an instant luminous refresh.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "partial-babylights",
@@ -37,7 +37,7 @@ export default function Services() {
       price: 270,
       duration: 180,
       description: "Delicate micro-foils covering crown and hairline sections to restore brightness with soft dimension.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "half-head-babylights",
@@ -46,7 +46,7 @@ export default function Services() {
       price: 300,
       duration: 180,
       description: "High-density micro-foiling through the top half and front sides, providing a bright and balanced blend.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "full-babylights",
@@ -55,7 +55,7 @@ export default function Services() {
       price: 320,
       duration: 180,
       description: "Maximum blonde saturation with dense, micro-fine foils throughout the entire head.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "partial-balayage",
@@ -64,7 +64,7 @@ export default function Services() {
       price: 270,
       duration: 180,
       description: "Soft, hand-painted sweeps covering face frame and crown area, offering a low-maintenance look.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "half-head-balayage",
@@ -73,7 +73,7 @@ export default function Services() {
       price: 300,
       duration: 180,
       description: "Natural-looking, hand-painted sweeps covering crown and top layers for seamless dimensional gradients.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "full-balayage",
@@ -82,7 +82,7 @@ export default function Services() {
       price: 320,
       duration: 180,
       description: "Complete hand-painted canvas. Broad strokes of soft dimension throughout the entire head.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "partial-foilayage",
@@ -91,7 +91,7 @@ export default function Services() {
       price: 270,
       duration: 180,
       description: "Combines high-impact foil lifting with soft balayage blending, focused on top sections.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "half-head-foilayage",
@@ -100,7 +100,7 @@ export default function Services() {
       price: 300,
       duration: 180,
       description: "Mid-level high-contrast brightness with a soft root blend covering the upper sections.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "full-foilayage",
@@ -109,7 +109,7 @@ export default function Services() {
       price: 320,
       duration: 180,
       description: "Ultimate high-impact brightness with natural root shading, extending through the entire head.",
-      icon: FiSparkles
+      icon: FiStar
     },
 
     // 2. Extensions
@@ -129,7 +129,7 @@ export default function Services() {
       price: 1200,
       duration: 120,
       description: "Premium weft placement to add natural volume and subtle thickness.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "2-rows-install",
@@ -138,7 +138,7 @@ export default function Services() {
       price: 1800,
       duration: 120,
       description: "Our signature weft placement. Adds rich density, luxurious volume, and medium length.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "3-rows-install",
@@ -147,7 +147,7 @@ export default function Services() {
       price: 2400,
       duration: 120,
       description: "Maximum transformation. Provides full volume, premium thickness, and dramatic length.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "basic-1-row-removal-reapp",
@@ -284,7 +284,7 @@ export default function Services() {
       price: 55,
       duration: 10,
       description: "Intense structural bond-building or hydrating mask for optimal shine and softness.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "base-coverage-add-on",
@@ -293,7 +293,7 @@ export default function Services() {
       price: 50,
       duration: 15,
       description: "Targeted grey root coverage or root shading to blend perfectly with highlights.",
-      icon: FiSparkles
+      icon: FiStar
     },
     {
       id: "dry-cut",
