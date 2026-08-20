@@ -37,7 +37,7 @@ export default function Instagram() {
   return (
     <section id="instagram" className="py-24 bg-cream/40 relative overflow-hidden">
       <div className="max-w-7xl mx-auto px-6 md:px-12">
-        
+
         {/* Title Block */}
         <div className="text-center max-w-2xl mx-auto mb-16">
           <span className="font-sans text-xs md:text-sm tracking-[0.3em] uppercase text-accent font-semibold mb-4 block">
