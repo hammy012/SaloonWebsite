@@ -56,7 +56,7 @@ export default function Footer() {
             </h4>
             <ul className="space-y-3 font-sans text-xs md:text-sm text-dark-brown/75 font-light">
               <li className="flex justify-between">
-                <span>Wednesday - Friday</span>
+                <span>Monday - Friday</span>
                 <span className="text-secondary font-medium">9:00 AM - 6:00 PM</span>
               </li>
               <li className="flex justify-between">
@@ -64,7 +64,7 @@ export default function Footer() {
                 <span className="text-secondary font-medium">9:00 AM - 4:00 PM</span>
               </li>
               <li className="flex justify-between">
-                <span>Sunday - Tuesday</span>
+                <span>Sunday</span>
                 <span className="text-dark-brown/40">Closed</span>
               </li>
             </ul>
