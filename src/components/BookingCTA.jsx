@@ -39,7 +39,7 @@ export default function BookingCTA() {
           <div className="flex flex-col sm:flex-row items-center gap-5 justify-center mb-10">
             <Magnetic strength={0.15}>
               <a
-                href="https://www.instagram.com/blondevoyagesalon/"
+                href="https://www.instagram.com/honeydoeshair?igsh=MWU3a3plaXUyNDBuZQ%3D%3D&igsi=MWU3a3plaXUyNDBuZQ%3D%3D"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2.5 px-8 py-4 bg-primary hover:bg-secondary text-white font-sans text-xs font-bold tracking-widest uppercase rounded-full shadow-lg hover:shadow-2xl hover:scale-105 transition-all duration-300"
@@ -51,7 +51,7 @@ export default function BookingCTA() {
 
             <Magnetic strength={0.15}>
               <a
-                href="https://www.instagram.com/blondevoyagesalon/"
+                href="https://www.instagram.com/honeydoeshair?igsh=MWU3a3plaXUyNDBuZQ%3D%3D&igsi=MWU3a3plaXUyNDBuZQ%3D%3D"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2.5 px-8 py-4 border border-primary/20 hover:border-accent bg-white text-primary hover:text-accent font-sans text-xs font-bold tracking-widest uppercase rounded-full shadow-sm hover:shadow-md transition-all duration-300"
@@ -68,7 +68,7 @@ export default function BookingCTA() {
             <span className="hidden sm:inline">•</span>
             <span>San Diego, CA</span>
             <span className="hidden sm:inline">•</span>
-            <span>@blondevoyagesalon</span>
+            <span>@honeydoeshair</span>
           </div>
 
         </motion.div>

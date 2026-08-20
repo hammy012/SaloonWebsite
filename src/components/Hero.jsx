@@ -160,7 +160,7 @@ export default function Hero() {
         >
           <Magnetic strength={0.15}>
             <a
-              href="https://www.instagram.com/blondevoyagesalon/"
+              href="https://www.instagram.com/honeydoeshair?igsh=MWU3a3plaXUyNDBuZQ%3D%3D&igsi=MWU3a3plaXUyNDBuZQ%3D%3D"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 bg-accent hover:bg-white text-dark-brown hover:text-primary font-sans text-xs font-bold tracking-widest uppercase rounded-full shadow-lg hover:shadow-2xl hover:scale-105 transition-all duration-300"

@@ -576,7 +576,7 @@ export default function Services() {
                     {/* Confirmation Button */}
                     <Magnetic strength={0.1}>
                       <a
-                        href="https://www.instagram.com/blondevoyagesalon/"
+                        href="https://www.instagram.com/honeydoeshair?igsh=MWU3a3plaXUyNDBuZQ%3D%3D&igsi=MWU3a3plaXUyNDBuZQ%3D%3D"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="w-full text-center py-4 bg-accent text-dark-brown hover:bg-primary hover:text-white font-sans text-xs font-bold tracking-widest uppercase rounded-full shadow-md hover:shadow-xl transition-all duration-300 block hover:scale-[1.02]"
@@ -619,7 +619,7 @@ export default function Services() {
           </p>
           <Magnetic strength={0.15}>
             <a
-              href="https://www.instagram.com/blondevoyagesalon/"
+              href="https://www.instagram.com/honeydoeshair?igsh=MWU3a3plaXUyNDBuZQ%3D%3D&igsi=MWU3a3plaXUyNDBuZQ%3D%3D"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-8 py-3.5 border border-primary/20 hover:border-accent bg-white text-primary hover:text-accent font-sans text-xs font-semibold tracking-widest uppercase rounded-full shadow-sm hover:shadow-md transition-all duration-300"

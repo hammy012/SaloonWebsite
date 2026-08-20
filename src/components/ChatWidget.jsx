@@ -15,10 +15,10 @@ export default function ChatWidget() {
   const scrollRef = useRef(null);
 
   const quickOptions = [
-    { label: "Book Appointment", reply: "I'd love to help you reserve a session! Melissa manages all luxury booking reservations directly through her Blonde Voyage Instagram portal. Click 'Book Now' in the navigation bar or send a DM to get started! 🤍" },
+    { label: "Book Appointment", reply: "I'd love to help you reserve a session! Melissa manages all luxury booking reservations directly through her Honey Does Hair Instagram portal. Click 'Book Now' in the navigation bar or send a DM to get started! 🤍" },
     { label: "Pricing Details", reply: "Our curated services start at $85 for Styling, $120 for Gloss & Toning, and $280-$350+ for Custom Blonding and Balayage. All sessions include a complimentary bond-protecting treatment. View our full Services menu on the page! ✨" },
-    { label: "Hair Consultation", reply: "For new clients, we recommend a digital consultation. You can send us 2-3 clear photos of your current hair in natural light, alongside 2-3 inspiration goals, directly via Instagram DM @blondevoyagesalon! 💇‍♀️" },
-    { label: "Instagram Feed", reply: "We post daily color transformations, formulas, and client reels! Join our community on Instagram: @blondevoyagesalon. See you there!" },
+    { label: "Hair Consultation", reply: "For new clients, we recommend a digital consultation. You can send us 2-3 clear photos of your current hair in natural light, alongside 2-3 inspiration goals, directly via Instagram DM @honeydoeshair! 💇‍♀️" },
+    { label: "Instagram Feed", reply: "We post daily color transformations, formulas, and client reels! Join our community on Instagram: @honeydoeshair. See you there!" },
     { label: "Salon Location", reply: "Melissa styles from the Blonde Voyage Salon, located in San Diego, California. We operate strictly by appointment to ensure client privacy and comfort. Custom directions and parking info will be sent upon booking! 📍" },
   ];
 

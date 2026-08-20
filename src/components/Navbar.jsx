@@ -91,7 +91,7 @@ export default function Navbar() {
           <div className="hidden lg:block">
             <Magnetic strength={0.2}>
               <a
-                href="https://www.instagram.com/blondevoyagesalon/"
+                href="https://www.instagram.com/honeydoeshair?igsh=MWU3a3plaXUyNDBuZQ%3D%3D&igsi=MWU3a3plaXUyNDBuZQ%3D%3D"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block px-6 py-2.5 bg-primary hover:bg-secondary text-white font-sans text-xs font-semibold tracking-widest uppercase rounded-full shadow-md hover:shadow-lg transition-all duration-300"
@@ -157,7 +157,7 @@ export default function Navbar() {
                 className="pt-6"
               >
                 <a
-                  href="https://www.instagram.com/blondevoyagesalon/"
+                  href="https://www.instagram.com/honeydoeshair?igsh=MWU3a3plaXUyNDBuZQ%3D%3D&igsi=MWU3a3plaXUyNDBuZQ%3D%3D"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block px-10 py-3.5 bg-primary hover:bg-secondary text-white font-sans text-xs font-bold tracking-widest uppercase rounded-full shadow-lg transition-all duration-300"

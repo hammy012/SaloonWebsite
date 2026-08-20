@@ -48,13 +48,13 @@ export default function Instagram() {
           </h2>
           <div className="w-16 h-[1.5px] bg-accent mx-auto mb-6" />
           <a
-            href="https://www.instagram.com/blondevoyagesalon/"
+            href="https://www.instagram.com/honeydoeshair?igsh=MWU3a3plaXUyNDBuZQ%3D%3D&igsi=MWU3a3plaXUyNDBuZQ%3D%3D"
             target="_blank"
             rel="noopener noreferrer"
             className="font-sans text-xs md:text-sm tracking-widest text-accent uppercase font-bold hover:text-primary transition-colors flex items-center justify-center gap-2"
           >
             <AiOutlineInstagram className="w-4 h-4" />
-            @blondevoyagesalon
+            @honeydoeshair
           </a>
         </div>
 
@@ -69,7 +69,7 @@ export default function Instagram() {
           {instagramPosts.map((post, idx) => (
             <motion.a
               key={idx}
-              href="https://www.instagram.com/blondevoyagesalon/"
+              href="https://www.instagram.com/honeydoeshair?igsh=MWU3a3plaXUyNDBuZQ%3D%3D&igsi=MWU3a3plaXUyNDBuZQ%3D%3D"
               target="_blank"
               rel="noopener noreferrer"
               variants={itemVariants}
@@ -101,7 +101,7 @@ export default function Instagram() {
         <div className="text-center">
           <Magnetic strength={0.15}>
             <a
-              href="https://www.instagram.com/blondevoyagesalon/"
+              href="https://www.instagram.com/honeydoeshair?igsh=MWU3a3plaXUyNDBuZQ%3D%3D&igsi=MWU3a3plaXUyNDBuZQ%3D%3D"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 px-8 py-4 bg-primary hover:bg-secondary text-white font-sans text-xs font-bold tracking-widest uppercase rounded-full shadow-lg hover:shadow-2xl transition-all duration-300"
