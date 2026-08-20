@@ -17,7 +17,7 @@ export default function Footer() {
     <footer className="bg-cream pt-20 pb-10 border-t border-primary/5">
       <div className="max-w-7xl mx-auto px-6 md:px-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
-          
+
           {/* Column 1: Brand Info */}
           <div>
             <span className="font-serif text-xl tracking-widest text-primary font-medium block mb-3">
