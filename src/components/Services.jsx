@@ -11,6 +11,7 @@ import {
   FiTrash2, 
   FiInfo
 } from "react-icons/fi";
+import { AiOutlineInstagram } from "react-icons/ai";
 import Magnetic from "./Magnetic";
 
 export default function Services() {
@@ -574,14 +575,15 @@ export default function Services() {
                     </p>
 
                     {/* Confirmation Button */}
-                    <Magnetic strength={0.1}>
+                    <Magnetic strength={0.1} className="w-full block">
                       <a
                         href="https://www.instagram.com/honeydoeshair?igsh=MWU3a3plaXUyNDBuZQ%3D%3D&igsi=MWU3a3plaXUyNDBuZQ%3D%3D"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="w-full text-center py-4 bg-accent text-dark-brown hover:bg-primary hover:text-white font-sans text-xs font-bold tracking-widest uppercase rounded-full shadow-md hover:shadow-xl transition-all duration-300 block hover:scale-[1.02]"
+                        className="w-full flex items-center justify-center gap-2 py-4 bg-primary hover:bg-secondary text-white font-sans text-xs font-bold tracking-widest uppercase rounded-full shadow-md hover:shadow-xl transition-all duration-300 hover:scale-[1.02]"
                       >
-                        Inquire Consultation
+                        <AiOutlineInstagram className="w-4 h-4" />
+                        <span>Inquire Consultation</span>
                       </a>
                     </Magnetic>
                   </motion.div>
